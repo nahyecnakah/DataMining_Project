@@ -1,0 +1,10 @@
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\bin\Debug\Veri_Madenciligi_Proje.exe.config
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\bin\Debug\Veri_Madenciligi_Proje.exe
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\bin\Debug\Veri_Madenciligi_Proje.pdb
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.csprojAssemblyReference.cache
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.Form1.resources
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.Properties.Resources.resources
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.csproj.GenerateResource.cache
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.csproj.CoreCompileInputs.cache
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.exe
+C:\Users\CEYHAN\source\repos\Veri_Madenciligi_Proje\Veri_Madenciligi_Proje\obj\Debug\Veri_Madenciligi_Proje.pdb
