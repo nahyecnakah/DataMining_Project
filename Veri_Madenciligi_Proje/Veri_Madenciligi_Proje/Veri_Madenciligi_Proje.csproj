@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="CLASS\Helper.cs" />
     <Compile Include="CLASS\HelperOffLine.cs" />
+    <Compile Include="CLASS\Regression.cs" />
+    <Compile Include="CLASS\Sub_Regression_For_X.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
